@@ -1,0 +1,39 @@
+_repo: Markiisittaren-rikos_75789
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Sulonen, Bertta
+    gutenberg_agent_id: '58144'
+    url: http://www.gutenberg.org/2009/agents/58144
+creator:
+  author:
+    agent_name: Hoffmann, E. T. A. (Ernst Theodor Amadeus)
+    aliases:
+    - Hoffmann, E.T.A.
+    - Hoffmann, Ernst Theodor Wilhelm
+    - Hoffmann, Ernst Theodor Amadeus
+    birthdate: 1776
+    deathdate: 1822
+    gutenberg_agent_id: '2008'
+    url: http://www.gutenberg.org/2009/agents/2008
+    wikipedia:
+    - https://en.wikipedia.org/wiki/E.T.A._Hoffmann
+    - https://de.wikipedia.org/wiki/E._T._A._Hoffmann
+description: ''
+gutenberg_issued: '2025-04-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75789'
+language: fi
+pgterms:marc905: 20201115103325hoffmann
+pgterms:marc906: '1921'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aHÃ¤meenlinna :$bArvi A. Karisto Oy, $c1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Markiisittaren rikos
+url: http://www.gutenberg.org/ebooks/75789
