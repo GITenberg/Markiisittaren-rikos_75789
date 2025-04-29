@@ -5,6 +5,9 @@ contributor:
     agent_name: Sulonen, Bertta
     gutenberg_agent_id: '58144'
     url: http://www.gutenberg.org/2009/agents/58144
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hoffmann, E. T. A. (Ernst Theodor Amadeus)
@@ -20,6 +23,8 @@ creator:
     - https://en.wikipedia.org/wiki/E.T.A._Hoffmann
     - https://de.wikipedia.org/wiki/E._T._A._Hoffmann
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75789#Markiisittaren-rikos
 gutenberg_issued: '2025-04-04'
 gutenberg_type: Text
 identifiers:
